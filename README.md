@@ -1,12 +1,12 @@
 # uvv_bd_1_cc1m
-#                   Pset 1
+#                  Pset 1
 
 ## Nome: Guilherme Souza Oliveira
 ## Professor: Abrantes
 ## Turma: CC1M
 
 
-### Infelizmente, ontem durante a aula quando eu estava tirando uma dúvida, minha máquina virtual acabou dando problema e apagando todos os meus arquivos e meu progresso no pset. O professor tentou resolver, mas não tinha mais jeito e eu não tinha salvado nada no github ainda. Aqui está a única parte que consegui salvar, pois tinha salvado esse código antes.
+### Infelizmente, ontem durante a aula quando eu estava tirando uma dúvida, minha máquina virtual acabou dando problema e apagando todos os meus arquivos e meu progresso no pset. O professor tentou resolver, mas não tinha mais jeito e eu não tinha salvado nada no github ainda. Aqui está a única parte que consegui salvar, pois tinha salvado esse código antes. Peço que compreenda minha situação
 
 
 
